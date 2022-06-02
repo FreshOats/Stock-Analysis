@@ -1,5 +1,5 @@
 # Stock Analysis Using VBA
-Stock Analysis of 12 tickers in 2017 and 2018
+A comparison of a nested loop and refactored code to eliminate the nesting to improve efficiency
 #### by Justin R. Papreck
 ---
 
