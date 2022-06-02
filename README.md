@@ -1,5 +1,5 @@
 # Stock Analysis Using VBA
-***A comparison of a nested loop and refactored code to eliminate the nesting to improve efficiency
+***A comparison of a nested loop and refactored code to eliminate the nesting to improve efficiency***
 #### by Justin R. Papreck
 ---
 
